@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "34309cfa-86c3-4730-ae6c-1dae4d4d61b9": {
+      "ProjectGuid": "34309cfa-86c3-4730-ae6c-1dae4d4d61b9",
+      "DisplayName": "WinFormsApp2",
+      "ColorIndex": 0
+    },
+    "5a57d517-99be-4531-99c9-f0e0e770e780": {
+      "ProjectGuid": "5a57d517-99be-4531-99c9-f0e0e770e780",
+      "DisplayName": "ProductManagement1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,70 @@
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Form1.resources
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ProductManagement1.deps.json
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ProductManagement1.runtimeconfig.json
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ProductManagement1.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ProductManagement1.exe
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ProductManagement1.dll
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ProductManagement1.pdb
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AddProduct.resources
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.OrderWin.resources
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AddOrder.resources
+C:\Users\ASUS\Desktop\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.OrderDetailWinForm.resources
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ProductManagement1.deps.json
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ProductManagement1.runtimeconfig.json
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ProductManagement1.runtimeconfig.dev.json
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ProductManagement1.exe
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ProductManagement1.dll
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\bin\Debug\net5.0-windows\ProductManagement1.pdb
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AddOrder.resources
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AddProduct.resources
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Form1.resources
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.OrderDetailWinForm.resources
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.OrderWin.resources
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CopyComplete
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+E:\Visual studio\Bai tap\ProductManagement1\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache

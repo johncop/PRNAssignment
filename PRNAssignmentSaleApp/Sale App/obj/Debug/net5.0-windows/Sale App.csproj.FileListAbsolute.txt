@@ -1,0 +1,132 @@
+E:\Visual studio\Bai tap\Sale App\Sale App\bin\Debug\net5.0-windows\Sale App.exe
+E:\Visual studio\Bai tap\Sale App\Sale App\bin\Debug\net5.0-windows\Sale App.deps.json
+E:\Visual studio\Bai tap\Sale App\Sale App\bin\Debug\net5.0-windows\Sale App.runtimeconfig.json
+E:\Visual studio\Bai tap\Sale App\Sale App\bin\Debug\net5.0-windows\Sale App.runtimeconfig.dev.json
+E:\Visual studio\Bai tap\Sale App\Sale App\bin\Debug\net5.0-windows\Sale App.dll
+E:\Visual studio\Bai tap\Sale App\Sale App\bin\Debug\net5.0-windows\ref\Sale App.dll
+E:\Visual studio\Bai tap\Sale App\Sale App\bin\Debug\net5.0-windows\Sale App.pdb
+E:\Visual studio\Bai tap\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.AssemblyReference.cache
+E:\Visual studio\Bai tap\Sale App\Sale App\obj\Debug\net5.0-windows\Sale_App.Form1.resources
+E:\Visual studio\Bai tap\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.GenerateResource.cache
+E:\Visual studio\Bai tap\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studio\Bai tap\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.AssemblyInfoInputs.cache
+E:\Visual studio\Bai tap\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.AssemblyInfo.cs
+E:\Visual studio\Bai tap\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.CoreCompileInputs.cache
+E:\Visual studio\Bai tap\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.dll
+E:\Visual studio\Bai tap\Sale App\Sale App\obj\Debug\net5.0-windows\ref\Sale App.dll
+E:\Visual studio\Bai tap\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.pdb
+E:\Visual studio\Bai tap\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.genruntimeconfig.cache
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\Sale App.exe
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\Sale App.deps.json
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\Sale App.runtimeconfig.json
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\Sale App.runtimeconfig.dev.json
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\Sale App.dll
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\Sale App.pdb
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.AssemblyReference.cache
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale_App.Form1.resources
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.GenerateResource.cache
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.AssemblyInfoInputs.cache
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.AssemblyInfo.cs
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.CoreCompileInputs.cache
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.dll
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\refint\Sale App.dll
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.pdb
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.genruntimeconfig.cache
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\ref\Sale App.dll
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale_App.ucCategory.resources
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale_App.ucProduct.resources
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale_App.ucOrder.resources
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\ProductManagement1.deps.json
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\ProductManagement1.runtimeconfig.json
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\ProductManagement1.runtimeconfig.dev.json
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\ProductManagement1.exe
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\ProductManagement1.dll
+D:\Project\C dharp\Sale App\Sale App\bin\Debug\net5.0-windows\ProductManagement1.pdb
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.CopyComplete
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale_App.FormAddCategory.resources
+D:\Project\C dharp\Sale App\Sale App\obj\Debug\net5.0-windows\Sale_App.FormUpdateCategory.resources
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\ProductManagement1.deps.json
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\ProductManagement1.runtimeconfig.json
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\ProductManagement1.runtimeconfig.dev.json
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\ProductManagement1.exe
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\Sale App.exe
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\Sale App.deps.json
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\Sale App.runtimeconfig.json
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\Sale App.runtimeconfig.dev.json
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\Sale App.dll
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\ref\Sale App.dll
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\Sale App.pdb
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\ProductManagement1.dll
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\ProductManagement1.pdb
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.AssemblyReference.cache
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.FormAddCategory.resources
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.Form1.resources
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.ucCategory.resources
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.ucOrder.resources
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.ucProduct.resources
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.FormUpdateCategory.resources
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.GenerateResource.cache
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.AssemblyInfoInputs.cache
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.AssemblyInfo.cs
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.CoreCompileInputs.cache
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.CopyComplete
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.dll
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\ref\Sale App.dll
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.pdb
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.genruntimeconfig.cache
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.FormAddProduct.resources
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.FormAddOrder.resources
+E:\Visual studio\Bai tap\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.ucOrderDetail.resources
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\ProductManagement1.deps.json
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\ProductManagement1.runtimeconfig.json
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\ProductManagement1.runtimeconfig.dev.json
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\ProductManagement1.exe
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\Sale App.exe
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\Sale App.deps.json
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\Sale App.runtimeconfig.json
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\Sale App.runtimeconfig.dev.json
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\Sale App.dll
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\Sale App.pdb
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\ProductManagement1.dll
+D:\học tập\PRNAssignmentSaleApp\Sale App\bin\Debug\net5.0-windows\ProductManagement1.pdb
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.AssemblyReference.cache
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.FormAddCategory.resources
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.FormAddOrder.resources
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.FormAddProduct.resources
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.Form1.resources
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.ucCategory.resources
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.ucOrder.resources
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.ucOrderDetail.resources
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.ucProduct.resources
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale_App.FormUpdateCategory.resources
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.GenerateResource.cache
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.GeneratedMSBuildEditorConfig.editorconfig
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.AssemblyInfoInputs.cache
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.AssemblyInfo.cs
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.CoreCompileInputs.cache
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.csproj.CopyComplete
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.dll
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\refint\Sale App.dll
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.pdb
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\Sale App.genruntimeconfig.cache
+D:\học tập\PRNAssignmentSaleApp\Sale App\obj\Debug\net5.0-windows\ref\Sale App.dll
