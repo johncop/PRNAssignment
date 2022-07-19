@@ -67,3 +67,26 @@ D:\học tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\refint\Pro
 D:\học tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.pdb
 D:\học tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.genruntimeconfig.cache
 D:\học tập\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ref\ProductManagement1.dll
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.exe
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.deps.json
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.runtimeconfig.json
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.runtimeconfig.dev.json
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.dll
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ref\ProductManagement1.dll
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\bin\Debug\net5.0\ProductManagement1.pdb
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.csproj.AssemblyReference.cache
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.AssemblyInfoInputs.cache
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.AssemblyInfo.cs
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.csproj.CoreCompileInputs.cache
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.csproj.CopyComplete
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.dll
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ref\ProductManagement1.dll
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.pdb
+E:\Visual studio\Bai tap\PRNAssignment\PRNAssignment\ProductManagement1\ProductManagement1\obj\Debug\net5.0\ProductManagement1.genruntimeconfig.cache
