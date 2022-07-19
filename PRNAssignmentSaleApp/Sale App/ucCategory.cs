@@ -117,6 +117,11 @@ namespace Sale_App
             dv.RowFilter = string.Format("[CategoryName] like '%" + txtSearch.Text + "%'");
             dataGridView1.DataSource = dv.ToTable();*/
         }
+
+        private void ucCategory_Load(object sender, EventArgs e)
+        {
+
+        }
     }
     }
 

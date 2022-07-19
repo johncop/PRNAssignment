@@ -132,6 +132,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Name = "ucCategory";
             this.Size = new System.Drawing.Size(674, 355);
+            this.Load += new System.EventHandler(this.ucCategory_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

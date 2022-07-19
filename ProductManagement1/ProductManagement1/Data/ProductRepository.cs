@@ -151,14 +151,15 @@ namespace ProductManagement1.Data
 
         public List<Product> GetByName(string Name)
         {
+            con = new SqlConnection(cs);
             List<Product> list = new List<Product>();
             try
             {
-                con = new SqlConnection(cs);
+                
                 if (con != null)
                 {
                     SqlCommand cmd = new SqlCommand("Select Id,Name,Price,CreateDate,Status,CategoryId from dbo.Product where Name LIKE @Name", con);
-                    cmd.Parameters.AddWithValue("@Name", "%"+Name+"%");
+                    cmd.Parameters.AddWithValue("@Name", "%" + Name + "%");
                     con.Open();
                     using (SqlDataReader rs = cmd.ExecuteReader())
                     {
@@ -185,8 +186,47 @@ namespace ProductManagement1.Data
                 con.Close();
             }
             return list;
+        }
+
+
+
+        public List<Product> GetName(string proName)
+        {
+            con = new SqlConnection(cs);
+            List<Product> list = new List<Product>();
+            try
+            {
+                SqlCommand cmd = new SqlCommand(@"Select Id,Name,Price,CreateDate,Status,CategoryId from dbo.Product where Name LIKE @Name", con);
+                con.Open();
+                cmd.Parameters.AddWithValue("@Name", "%" + proName + "%");
+                using (SqlDataReader rs = cmd.ExecuteReader())
+                {
+                    while (rs.Read())
+                    {
+                        list.Add(new Product(
+                                                       rs.GetInt32("Id"),
+                                                       rs.GetString("Name"),
+                                                       rs.GetDouble("Price"),
+                                                       rs.GetDateTime("CreateDate"),
+                                                       rs.GetInt32("Status"),
+                                                       rs.GetInt32("CategoryId")));
+                    }
+                }
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+            finally
+            {
+                con.Close();
+            }
+            return list;
 
         }
+
+
 
         public void Update(int id,Product p)
         {

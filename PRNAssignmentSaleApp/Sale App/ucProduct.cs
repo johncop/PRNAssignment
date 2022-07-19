@@ -1,4 +1,5 @@
 ﻿using ProductManagement1.Data;
+using ProductManagement1.Models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -51,6 +52,24 @@ namespace Sale_App
             formAddPro.ShowDialog();
             //formAddCate.FormClosed += FormAddCategory_FormClosed;
             loadData();
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            if (txtSearch.Text.Length == 0)
+            {
+                MessageBox.Show("Search is empty");
+                return;
+            }
+            List<Product> product = new List<Product>();
+            //MessageBox.Show(txtSearch.Text);
+            //string name = txtSearch.Text;
+            // txtSearch.Text = name;
+            ProductRepository repo = new ProductRepository();
+            Product pro = new Product();
+            product = repo.GetName(txtSearch.Text);
+            //cate = repo.GetByName(name);
+            dataGridView1.DataSource = product;
         }
     }
 }
