@@ -1,4 +1,5 @@
 ﻿using ProductManagement1.Data;
+using ProductManagement1.Models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -48,6 +49,21 @@ namespace Sale_App
             {
                 MessageBox.Show("Please select order to delete");
             }
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            if (txtSearch.Text.Length == 0)
+            {
+                MessageBox.Show("Search is empty");
+                return;
+            }
+            List<Order> order = new List<Order>();
+            OrderRepository repo = new OrderRepository();
+            
+            order = repo.GetOrderById(int.Parse(txtSearch.Text));
+            //cate = repo.GetByName(name);
+            dataGridView1.DataSource = order;
         }
     }
 }

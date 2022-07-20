@@ -108,6 +108,48 @@ namespace ProductManagement1.Data
             }
             return list;
         }
+
+
+        public List<Order> GetOrderById(int Id)
+        {
+            con = new SqlConnection(cs);
+            List<Order> list = new List<Order>();
+            try
+            {
+                SqlCommand cmd = new SqlCommand(@"Select" +
+                    " Id,CustomerName,Address,Price,OrderDate,Status " +
+                    "from dbo.tblOrder" +
+                    " where Id = @Id", con);
+                con.Open();
+                cmd.Parameters.AddWithValue("@Id", Id);
+                using (SqlDataReader rs = cmd.ExecuteReader())
+                {
+                    while (rs.Read())
+                    {
+                        list.Add(new Order(
+                            rs.GetInt32("Id"),
+                            rs.GetString("CustomerName"),
+                            rs.GetString("Address"),
+                            rs.GetDouble("Price"),
+                            rs.GetDateTime("OrderDate"),
+                            rs.GetInt32("Status")));
+                    }
+                }
+            }
+
+            catch (Exception)
+            {
+                throw;
+            }
+            finally
+            {
+                con.Close();
+            }
+            return list;
+
+        }
+
+
         public List<Order> Get()
         {
             List<Order> list = new List<Order>();
