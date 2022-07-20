@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "D:\\học tập\\PRNAssignment\\PRNAssignmentSaleApp\\Sale App\\Sale App.csproj": {}
+    "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\PRNAssignmentSaleApp\\Sale App\\Sale App.csproj": {}
   },
   "projects": {
-    "D:\\học tập\\PRNAssignment\\PRNAssignmentSaleApp\\Sale App\\Sale App.csproj": {
+    "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\PRNAssignmentSaleApp\\Sale App\\Sale App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\học tập\\PRNAssignment\\PRNAssignmentSaleApp\\Sale App\\Sale App.csproj",
+        "projectUniqueName": "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\PRNAssignmentSaleApp\\Sale App\\Sale App.csproj",
         "projectName": "Sale App",
-        "projectPath": "D:\\học tập\\PRNAssignment\\PRNAssignmentSaleApp\\Sale App\\Sale App.csproj",
+        "projectPath": "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\PRNAssignmentSaleApp\\Sale App\\Sale App.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\học tập\\PRNAssignment\\PRNAssignmentSaleApp\\Sale App\\obj\\",
+        "outputPath": "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\PRNAssignmentSaleApp\\Sale App\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -31,8 +28,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "D:\\học tập\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj": {
-                "projectPath": "D:\\học tập\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj"
+              "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj": {
+                "projectPath": "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj"
               }
             }
           }
@@ -56,6 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -64,22 +67,19 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\học tập\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj": {
+    "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\học tập\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj",
+        "projectUniqueName": "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj",
         "projectName": "ProductManagement1",
-        "projectPath": "D:\\học tập\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj",
+        "projectPath": "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\học tập\\PRNAssignment\\ProductManagement1\\ProductManagement1\\obj\\",
+        "outputPath": "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\ProductManagement1\\ProductManagement1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -122,12 +122,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
