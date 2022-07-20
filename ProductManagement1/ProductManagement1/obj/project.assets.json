@@ -454,17 +454,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj",
+      "projectUniqueName": "D:\\học tập\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj",
       "projectName": "ProductManagement1",
-      "projectPath": "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj",
+      "projectPath": "D:\\học tập\\PRNAssignment\\ProductManagement1\\ProductManagement1\\ProductManagement1.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual studio\\Bai tap\\PRNAssignment\\PRNAssignment\\ProductManagement1\\ProductManagement1\\obj\\",
+      "outputPath": "D:\\học tập\\PRNAssignment\\ProductManagement1\\ProductManagement1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -507,18 +511,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.13, 5.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
